@@ -1,22 +1,21 @@
 
-### Anahita Taheri
+### Reyhaneh Abdollahi
 
 
-### Personal informations
+### About
 
 ---
-+ name: Anahita
-+ last name : Taheri
-+ Date of birth : 1979/November/29
++ I am working in Caltural,Turism & Handicrafts Minister.
+
+
+### Personal information
+
+---
++ name: Reyhaneh
++ last name : Abdollahi
++ Date of birth : 09/21/1992
 + I am a trader and IT engineering student
-+ location : Tehran , I.R.Iran
-
-
-### Skill Highlights
-
----
-+ trade on Tehran Stock Exchange and Forex
-+ translating
++ location : Iowa , United States
 
 
 ### Education
@@ -26,13 +25,15 @@
 + Bachelor of science : IT Engineering
 _ payam Noor University of North 
 
-### language
+
+
+### work Experience
 
 ---
-+ Persian
-+ English
++ I am working in Caltural,Turism & Handicrafts Minister.
 
-### Favorites
+
+### Certificates
 
 ---
 + Trade
@@ -40,13 +41,17 @@ _ payam Noor University of North
 + travel 
 + playing volleyball
 
-### working Experience
+
+### Aditional Skills
 
 ---
-+ I am working in Caltural,Turism & Handicrafts Minister.
++ trade on Tehran Stock Exchange and Forex
++ translating
 
 
+### language
 
+---
++ English
++ Persian
 
---- 
-### [رزومه فارسی](resume-fa.md)
