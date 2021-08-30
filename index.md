@@ -23,7 +23,7 @@
 ---
 
 + Bachelor degree in Computer Engineering - Software  09/2010 - 02/2015
-_ Shahid Chamran University of Ahvaz, Iran 
+  Shahid Chamran University of Ahvaz, Iran 
 
 
 
