@@ -23,12 +23,15 @@
 ---
 
 * Bachelor degree in Computer Engineering - Software  09/2010 - 02/2015   
-         Shahid Chamran University of Ahvaz, Iran                                                                                                             
+         Shahid Chamran University of Ahvaz, Iran    
+         Project 1 : Implementing a windows application project for a food distribution company using C# and SQL
+	Project 2 : Implementing a windows application project for a dental clinic using C# and SQL
 
-### work Experience
+
+### Work Experience
 
 ---
-+ Engneered Plastic Components, Iowa, United States   03/2021 - present                                                                                                            
++ Engineered Plastic Components, Iowa, United States   03/2021 - present                                                                                                           
               Project Engineer - Planning and coordinating elements of a project
               
 + Saderat Bank, Ahvaz, Iran   08/2019 - 02/2021                                                                                                                                    
@@ -41,17 +44,16 @@
 ### Certificates
 
 ---
-+ Trade
-+ Studing historical books
-+ travel 
-+ playing volleyball
++ Operating system support for users
++ CCNA - Cisco Certified Network Associate
++ MCSE - Microsoft Certified Solution Expert
 
 
 ### Aditional Skills
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ translating
++ MS Office
++ Networking: LAN/WAN
 
 
 ### language
