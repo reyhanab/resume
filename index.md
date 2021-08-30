@@ -22,7 +22,7 @@
 
 ---
 
-+ Bachelor degree in Computer Engineering - Software  September 2010 - February 2015   
++ Bachelor degree in Computer Engineering - Software   09/2010 -  02/2015   
  Shahid Chamran University of Ahvaz, Iran  
  Project 1 : Implementing a windows application project for a food distribution company using C# and SQL\                                                                   
  Project 2 : Implementing a windows application project for a dental clinic using C# and SQL
