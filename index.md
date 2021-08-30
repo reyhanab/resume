@@ -28,14 +28,12 @@
 ### work Experience
 
 ---
-+ Engneered Plastic Components, Iowa, United States   03/2021 - present                                                                                                                  
-                    Project Engineer - Planning and coordinating elements of a project
++ Engneered Plastic Components, Iowa, United States   03/2021 - present                                                                                                            
+              Project Engineer - Planning and coordinating elements of a project
 + Saderat Bank, Ahvaz, Iran   08/2019 - 02/2021
-
-                   Bank Coordinator - Dealing directly with the customers and coordinate bank activities and services
+              Bank Coordinator - Dealing directly with the customers and coordinate bank activities and services
 + Faranet Internet Service Provider, Ahvaz, Iran    02/2016 - 04/2018
-
-                      Technical Support - Providing client services remotely
+              Technical Support - Providing client services remotely
 
 
 ### Certificates
