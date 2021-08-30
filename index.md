@@ -22,7 +22,7 @@
 
 ---
 
-+ Bachelor degree in Computer Engineering - Software 
+* Bachelor degree in Computer Engineering - Software 
  _Shahid Chamran University of Ahvaz, Iran_    09/2010 - 02/2015                                                                                                               
 
 ### work Experience
