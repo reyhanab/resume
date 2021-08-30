@@ -2,7 +2,7 @@
 ### Reyhaneh Abdollahi
 
 
-### About
+### Career Objective
 
 ---
 + I am an organized, independent individual, and self-motivated actively seeking for opportunities to grow in the field of software and work in a challenging environment to         utilize the knowledge learned in classrooms to solve real world problems.
@@ -18,7 +18,7 @@
 + Email : Reyhaneh.Abdollahi2@gmail.com
 
 
-### Education
+### Education Background
 
 ---
 
