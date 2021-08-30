@@ -31,10 +31,10 @@
 + Engneered Plastic Components, Iowa, United States 03/2021 - present                                                                                                                  
                     _Project Engineer - Planning and coordinating elements of a project_
 + Saderat Bank, Ahvaz, Iran 08/2019 - 02/2021
-+ 
+
                     _Bank Coordinator - Dealing directly with the customers and coordinate bank activities and services_
 + Faranet Internet Service Provider, Ahvaz, Iran 02/2016 - 04/2018
-+ 
+
                       _Technical Support - Providing client services remotely_
 
 
