@@ -11,10 +11,10 @@
 ### Personal information
 
 ---
-+ name: Reyhaneh
-+ last name : Abdollahi
++ Name: Reyhaneh
++ Last name : Abdollahi
 + Date of birth : 09/21/1992
-+ location : Iowa , United States
++ Location : Iowa , United States
 + Email : Reyhaneh.Abdollahi2@gmail.com
 
 
