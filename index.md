@@ -14,7 +14,7 @@
 + Name: Reyhaneh
 + Last name : Abdollahi
 + Date of birth : 09/21/1992
-+ Location : Iowa , United States
++ Location : Clinton Twp, MI , United States
 + Email : Reyhaneh.Abdollahi2@gmail.com
 
 
@@ -23,22 +23,30 @@
 ---
 
 + Bachelor degree in Computer Engineering - Software   09/2010 -  02/2015   
- Shahid Chamran University of Ahvaz, Iran  
- Project 1 : Implementing a windows application project for a food distribution company using C# and SQL\                                                                   
- Project 2 : Implementing a windows application project for a dental clinic using C# and SQL
+ Shahid Chamran University of Ahvaz, Iran   
+ Received [Governmental full tuition-waving fellowship]
+ 
+  + Project 1 : Implementing a windows application project for a food distribution company using C# and SQL                                                                   
+  + Project 2 : Implementing a windows application project for a dental clinic using C# and SQL
 
 
 ### Work Experience
 
 ---
-+ Engineered Plastic Components, Iowa, United States   03/2021 - present                                                                                                           
-              Project Engineer - Planning and coordinating elements of a project
++ Engineered Plastic Components, United States   03/2021 - present                                                                                                           
+              Project Engineer   
               
-+ Saderat Bank, Ahvaz, Iran   08/2019 - 02/2021                                                                                                                                    
-              Bank Coordinator - Dealing directly with the customers and coordinate bank activities and services
+  + Liaised with company executives and project managers to acquire resources to move projects forward.
+  + Tracked equipment usage and updated quantities of products to equip team members to complete projects.
+  + Monitored metrics during project execution to maintain compliance with planned costs, schedules and goals.
               
-+ Faranet Internet Service Provider, Ahvaz, Iran    02/2016 - 04/2018                                                                                                              
-              Technical Support - Providing client services remotely
+              
++ Faranet Internet Service Provider, Ahvaz, Iran    02/2019 - 04/2021                                                                                                              
+              Technical Support 
+              
+  + Provided IT support to non-technical internal users through desk side support services.          
+  + Monitored systems in operation and input commands to troubleshoot areas. 
+  + Provided support for networking protocols and characteristics.
 
 
 ### Certificates
@@ -54,6 +62,12 @@
 ---
 + MS Office
 + Networking: LAN/WAN
+
+
+### Publication
+---
++ Asymmetric Semi-Nonnegative Matrix Factorization for Directed Graph Clustering Reyhaneh Abdollahi, Seyed Amjad Seyedi, and Mohamad Reza Noorimehr.
+  International Conference on Computer and Knowledge Engineering (ICCKE), 2020.
 
 
 ### language
